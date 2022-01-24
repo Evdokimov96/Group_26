@@ -1,0 +1,13 @@
+1. ID - 4342
+2. Name - Validation
+3. Precondition-
+4. Steps -
+5. Actual result
+6. Expected result
+7. Environment
+8. Build
+9. Repeatability
+10. Influence
+11. Serenity
+12. Priority
+13. Attachment
